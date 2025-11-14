@@ -1,0 +1,19 @@
+# Node.js filer (om du använder npm)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# VS Code inställningar
+.vscode/
+
+# MacOS systemfiler
+.DS_Store
+
+# Loggfiler
+*.log
+
+# Bygg/temporära filer
+dist/
+build/
+
+.prettierignore
